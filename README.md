@@ -2,7 +2,7 @@
 
 ## Description
 
-- Base website of the prework study guide, showcasing basic HTML, CSS, and JavaScript. This was created based on the instructions given during the prework section of the Coding Bootcamp, helping me learn more about each step of the process.
+Base website of the prework study guide, showcasing basic HTML, CSS, and JavaScript. This was created based on the instructions given during the prework section of the Coding Bootcamp, helping me learn more about each step of the process.
 
 ## Installation
 
